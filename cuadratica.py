@@ -20,3 +20,5 @@ if determinante>=0:
       print(x2)
 else:
   print("La ecuacion no tiene soluciones reales")
+
+  
